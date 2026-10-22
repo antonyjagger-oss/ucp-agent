@@ -10,7 +10,8 @@
           "endpoint": "https://segers.com/api/ucp/mcp"
         }
       ]
-    }
+    },
+    "payment_handlers": {}
   },
   "agent": {
     "name": "Profilwork Catalog Agent",
