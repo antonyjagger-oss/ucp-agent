@@ -1,0 +1,10 @@
+{
+  "ucp": {
+    "version": "2026-08-25"
+  },
+  "agent": {
+    "name": "Profilwork Catalog Agent",
+    "description": "Catalog enrichment agent for profilwork.se",
+    "url": "https://profilwork.se"
+  }
+}
